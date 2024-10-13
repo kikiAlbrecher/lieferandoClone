@@ -7,15 +7,15 @@
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
-    color: whitesmoke;
+    color: black;
 }
 
 .bg_deco {
-    background-color: rgba(0, 95, 106, 0.9);
+    background-color: rgb(255,128,0);
 }
 
 .header_footer_line {
-    box-shadow: 0 8px 0 rgba(237, 12, 169, 0.8);
+    box-shadow: 0 8px 0 rgba(255, 255, 255, 0.1);
 }
 
 .m_auto {
@@ -53,7 +53,7 @@
 }
 
 a {
-    color: white;
+    color: black;
     text-decoration: none;
     font-weight: 500;
 }

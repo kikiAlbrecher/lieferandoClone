@@ -2,12 +2,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 36px;
-    width: 36px;
-    background-color: grey;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(203, 203, 203);
     border-radius: 100%;
     border: 3px solid whitesmoke;
     margin: 16px;
+    color: rgb(255, 128, 0);
+    font-weight: bold;
+    font-size: 32px;
 }
 
 .btn_small:hover {

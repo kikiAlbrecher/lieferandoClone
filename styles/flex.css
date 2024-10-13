@@ -29,6 +29,11 @@
     align-items: flex-end;
 }
 
+.fsfs {
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
 .fsc {
     justify-content: flex-start;
     align-items: center;
@@ -49,7 +54,7 @@
     align-items: flex-end;
 }
 
-.sbsf {
+.sbfs {
     justify-content: space-between;
     align-items: flex-start;
 }
